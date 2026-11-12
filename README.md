@@ -26,6 +26,8 @@ Jingwan — an AI companion that grows with you, character switchable.
 
 安装前可核对立面的 SHA256（若该版本附有校验文件）。
 
+Gitee 发行版与说明见 [Gitee · jingwan](https://gitee.com/AlbatrossCoder/jingwan)（蓝奏云等下载渠道以该仓 README 为准）。
+
 ## 安装（Android）
 
 1. 允许本机安装「未知来源」应用（设置路径因品牌而异，一般在安全 / 应用管理里）。
