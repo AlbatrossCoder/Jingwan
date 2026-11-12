@@ -5,6 +5,8 @@ Jingwan — an AI companion that grows with you, character switchable.
 
 本仓库**只发布安装包**，不含应用程序源码。
 
+**反馈：** QQ 邮箱 `654294440@qq.com` · QQ 群 `1109648974`
+
 ## 下载
 
 请到 [Releases](https://github.com/AlbatrossCoder/Jingwan/releases) 下载最新 APK，例如：
