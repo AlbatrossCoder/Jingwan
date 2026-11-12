@@ -20,13 +20,9 @@ Jingwan — an AI companion that grows with you, character switchable.
 
 ## 下载
 
-请到 [Releases](https://github.com/AlbatrossCoder/Jingwan/releases) 下载最新 APK，例如：
+本仓与 GitHub Releases **不存放 APK**。请到 [Gitee · Jingwan](https://gitee.com/AlbatrossCoder/Jingwan) 的 README 获取当前版本的下载方式（蓝奏云）。
 
-`Jingwan_0.2.3_release.apk`
-
-安装前可核对立面的 SHA256（若该版本附有校验文件）。
-
-Gitee 发行版与说明见 [Gitee · Jingwan](https://gitee.com/AlbatrossCoder/Jingwan)（蓝奏云等下载渠道以该仓 README 为准）。
+安装包文件名形如：`Jingwan_<version>_release.apk`。
 
 ## 安装（Android）
 

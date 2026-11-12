@@ -2,10 +2,11 @@
 
 Copyright (c) 2026 Jingwan contributors. All rights reserved.
 
-This repository distributes pre-built Android application packages (APK) only.
+This repository publishes product notes and update metadata.
+Official Android packages (APK) are hosted outside this repository (see the download notes).
 Source code is not published here and is not licensed under an open-source license.
 
-You may download and install the official APKs for personal use.
+You may download and install the official APKs for personal use via the published download channels.
 You may not redistribute modified binaries as official Jingwan releases,
 or claim authorship of the software, without prior written permission.
 
