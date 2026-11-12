@@ -5,8 +5,6 @@ Jingwan — an AI companion that grows with you, character switchable.
 
 本仓库**只发布安装包**，不含应用程序源码。
 
-**反馈：** QQ 邮箱 `654294440@qq.com` · QQ 群 `1109648974`
-
 ## 介绍
 
 鲸湾是面向 Android 的**本机优先** AI 陪伴：你先选好一位人物，再慢慢相处。她不是开局勾选性格菜单「捏」出来的，而是在聊天、记忆与日志里一点点长出来。
