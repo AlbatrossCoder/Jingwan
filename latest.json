@@ -1,6 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
-  "apkUrl": "https://gitee.com/AlbatrossCoder/Jingwan",
-  "sha256": "a338c220ba9d0aa99e0572d2014baf3465cd5ea198bb3e3a88d9598d70cc252d"
+  "versionCode": 8,
+  "versionName": "0.2.6",
+  "sha256": "384276a1131940da87b25c6ac8996342f0ccd6440521aad9521863aca76c7dab",
+  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingwan/releases/download/v0.2.6/Jingwan_0.2.6_release.apk",
+  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingwan/releases/download/v0.2.6/Jingwan_0.2.6_release.apk",
+  "notes": "应用内更新；安装包体积优化"
 }

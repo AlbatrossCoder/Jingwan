@@ -3,6 +3,8 @@
 鲸湾——一款可切换人物的 AI 伴成长应用。  
 Jingwan — an AI companion that grows with you, character switchable.
 
+另见：[Gitee · Jingwan](https://gitee.com/AlbatrossCoder/Jingwan)
+
 ## 介绍
 
 鲸湾是面向 Android 的**本机优先** AI 陪伴：你先选好一位人物，再慢慢相处。她不是开局勾选性格菜单「捏」出来的，而是在聊天、记忆与日志里一点点长出来。
@@ -20,9 +22,17 @@ Jingwan — an AI companion that grows with you, character switchable.
 
 ## 下载
 
-本仓与 GitHub Releases **不存放 APK**。请到 [Gitee · Jingwan](https://gitee.com/AlbatrossCoder/Jingwan) 的 README 获取当前版本的下载方式（蓝奏云）。
+请到本仓 **[Releases](https://github.com/AlbatrossCoder/Jingwan/releases)** 下载 `Jingwan_<version>_release.apk`。
 
-安装包文件名形如：`Jingwan_<version>_release.apk`。
+当前版本：**0.2.6**（`Jingwan_0.2.6_release.apk`）
+
+安装前可核对 SHA256：
+
+`384276a1131940da87b25c6ac8996342f0ccd6440521aad9521863aca76c7dab`
+
+清单见根目录 [`latest.json`](./latest.json)。
+
+> **说明**：安装包只作为 **Release 附件** 分发，**不要**把 APK commit 进本仓库 Git 树。
 
 ## 安装（Android）
 
@@ -34,7 +44,7 @@ Jingwan — an AI companion that grows with you, character switchable.
 
 1. 在设置或开局「接入」里填上你的 API Key，并可检查连接。
 2. 选一位人物（或导入 / 新建），开始聊天。
-3. 长按发送键可进入设置；长按气泡可引用或查看思考（若有）。
+3. 设置入口在应用内管理页；长按气泡可引用或查看思考（若有）。
 
 ## 隐私要点
 
@@ -48,4 +58,4 @@ Jingwan — an AI companion that grows with you, character switchable.
 
 ## 更新清单
 
-仓库根目录 [`latest.json`](./latest.json) 供日后应用内检查更新使用；字段以当前最新 Release 为准。
+仓库根目录 [`latest.json`](./latest.json) 供应用内检查更新；优先 Gitee，失败再回落本仓 Release。
