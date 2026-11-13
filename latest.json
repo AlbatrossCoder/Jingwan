@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.2.6",
-  "sha256": "384276a1131940da87b25c6ac8996342f0ccd6440521aad9521863aca76c7dab",
-  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingwan/releases/download/v0.2.6/Jingwan_0.2.6_release.apk",
-  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingwan/releases/download/v0.2.6/Jingwan_0.2.6_release.apk",
-  "notes": "应用内更新；安装包体积优化"
+  "versionCode": 9,
+  "versionName": "0.2.7",
+  "sha256": "f253fcb0601f500bfd96b3217e84313949a643d78bb66d224d498f97c0c1d1c0",
+  "apkUrlGitee": "https://gitee.com/AlbatrossCoder/Jingwan/releases/download/v0.2.7/Jingwan_0.2.7_release.apk",
+  "apkUrlGithub": "https://github.com/AlbatrossCoder/Jingwan/releases/download/v0.2.7/Jingwan_0.2.7_release.apk",
+  "notes": "称呼说清是在叫面前的人；成长页空状态居中"
 }
